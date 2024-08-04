@@ -1,4 +1,4 @@
-## Predictive Modeling with Linear Regression on Weather Prediction Dataset
+## Predictive Modeling with Linear Regression on Bangalore House Pricing dataset
 
 ![image](https://github.com/user-attachments/assets/777a24d8-7f00-4664-8874-d5c61c118c99)
 
